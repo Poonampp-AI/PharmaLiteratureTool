@@ -1,0 +1,17 @@
+openai
+langchain
+faiss-cpu
+unstructured
+pypdf
+python-docx
+tiktoken
+chromadb
+streamlit
+speechrecognition
+pyaudio
+python-dotenv
+beautifulsoup4
+requests
+arxiv
+pubmed-parser
+PyMuPDF
