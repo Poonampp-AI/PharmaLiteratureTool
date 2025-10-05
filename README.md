@@ -94,6 +94,3 @@ genai_lit_survey_tool/
 🧾 Example Query
 
 “Summarize recent EMA and WHO guidance on the impurity limits of oncology drugs and include citations.”
-🧾 Example Query
-
-“Summarize recent EMA and WHO guidance on the impurity limits of oncology drugs and include citations.”
