@@ -12,7 +12,7 @@ Frameworks: LangChain, LangGraph, Python (Multi-Agent architecture)
 
 LLM Backend: Azure OpenAI (GPT-4 / GPT-4-Turbo)
 
-Retrieval Engine: FAISS / Azure Cognitive Search (Vector DB)
+Retrieval Engine: FAISS (Vector DB)
 
 UI Layer: Streamlit (interactive dashboard)
 
