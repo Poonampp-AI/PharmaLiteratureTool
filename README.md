@@ -1,4 +1,4 @@
-🧠 GenAI Pharma Literature Intelligence Tool
+# GenAI Pharma Literature Intelligence Tool
 🚀 Overview
 
 The GenAI Pharma Literature Intelligence Tool is a multi-agent RAG-based research system built using LangGraph, LangChain, OpenAI, and Python.
